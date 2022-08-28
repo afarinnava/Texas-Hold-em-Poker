@@ -41,7 +41,7 @@ If the best hand is shared by more than one player, then the pot is split equall
 
 ## Hand values
 
-The following table shows the possible hand values in increasing order. ![](Flush.png)
+The following table shows the possible hand values in increasing order. <img src = "images/Flush.png" width = 100 height =50>
 
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
