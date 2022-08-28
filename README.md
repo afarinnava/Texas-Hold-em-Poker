@@ -47,13 +47,13 @@ The following table shows the possible hand values in increasing order.
 | ------------- |:-------------:| -----:|
 | Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | <img src = "images/Highcard.png" width = 220 > |
 | Pair      | Two cards of the same rank      | <img src = "images/Pair.png" width = 220 > |
-| Two pairs | Two times two cards with the same rank     | <img src = "images/Two pairs.png" width = 220 > |
-| Three of a kind | Three cards with the same rank      |     |
-| Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |     |
+| Two pairs | Two times two cards with the same rank     | <img src = "images/Two_Pair.png" width = 220 > |
+| Three of a kind | Three cards with the same rank      |   <img src = "images/Three_of_a_Kind.png" width = 220 >  |
+| Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |   <img src = "images/Straight.png" width = 220 >  |
 | Flush | 5 cards of the same suit      | <img src = "images/Flush.png" width = 220 > |
-| Full house | Combination of three of a kind and a pair      |     |
-| Four of a kind | Four cards of the same rank      |     |
-| Straight flush | Straight of the same suit      |     |
+| Full house | Combination of three of a kind and a pair      |  <img src = "images/Full_House.png" width = 220 >   |
+| Four of a kind | Four cards of the same rank      |   <img src = "images/Four_of_a_Kind.png" width = 220 >  |
+| Straight flush | Straight of the same suit      |  <img src = "images/Straight_Flush.png" width = 220 >   |
 | Royal flush | Straight flush that ends with Ace      |     |
 
 
