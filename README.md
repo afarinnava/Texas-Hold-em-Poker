@@ -41,7 +41,7 @@ If the best hand is shared by more than one player, then the pot is split equall
 
 ## Hand values
 
-The following table shows the possible hand values in increasing order. <img src = "images/Flush.png" width = 100 height =50>
+The following table shows the possible hand values in increasing order. 
 
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
@@ -50,7 +50,7 @@ The following table shows the possible hand values in increasing order. <img src
 | Two pairs | Two times two cards with the same rank     |     |
 | Three of a kind | Three cards with the same rank      |     |
 | Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |     |
-| Flush | 5 cards of the same suit      |     |
+| Flush | 5 cards of the same suit      |  <img src = "images/Flush.png" width = 200>   |
 | Full house | Combination of three of a kind and a pair      |     |
 | Four of a kind | Four cards of the same rank      |     |
 | Straight flush | Straight of the same suit      |     |
