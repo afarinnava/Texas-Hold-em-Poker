@@ -45,7 +45,7 @@ The following table shows the possible hand values in increasing order.
 
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
-| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](https://raw.github.com/afarinnava/Texas-Hold-em-Poker/Highcard.png) |
+| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](/Flush/Flush.png) |
 | Pair      | Two cards of the same rank      |    |
 | Two pairs | Two times two cards with the same rank     |     |
 | Three of a kind | Three cards with the same rank      |     |
