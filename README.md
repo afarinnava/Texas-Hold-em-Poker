@@ -45,7 +45,7 @@ The following table shows the possible hand values in increasing order.
 
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
-| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](/Texas-Hold-em-Poker/Highcard.png?raw=true) |
+| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](https://raw.github.com/afarinnava/Texas-Hold-em-Poker/Highcard.png) |
 | Pair      | Two cards of the same rank      |   $12 |
 | Two pairs | Two times two cards with the same rank     |    $1 |
 | Three of a kind | Three cards with the same rank      |    $1 |
