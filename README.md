@@ -46,14 +46,15 @@ The following table shows the possible hand values in increasing order.
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
 | Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | $1600 |
-| Pair      | Two cards with the same value      |   $12 |
-| Two pairs | Two times two cards with the same value      |    $1 |
-| Three of a kind | Three cards with the same value      |    $1 |
+| Pair      | Two cards of the same rank      |   $12 |
+| Two pairs | Two times two cards with the same rank     |    $1 |
+| Three of a kind | Three cards with the same rank      |    $1 |
 | Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |    $1 |
 | Flush | 5 cards of the same suit      |    $1 |
 | Full house | Combination of three of a kind and a pair      |    $1 |
-| Four of a kind | Four cards of the same value      |    $1 |
+| Four of a kind | Four cards of the same rank      |    $1 |
 | Straight flush | Straight of the same suit      |    $1 |
+| Royal flush | Straight flush that ends with Ace      |    $1 |
 
 		
 		10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
