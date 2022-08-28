@@ -46,24 +46,14 @@ The following table shows the possible hand values in increasing order.
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
 | Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](https://raw.github.com/afarinnava/Texas-Hold-em-Poker/Highcard.png) |
-| Pair      | Two cards of the same rank      |   $12 |
-| Two pairs | Two times two cards with the same rank     |    $1 |
-| Three of a kind | Three cards with the same rank      |    $1 |
-| Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |    $1 |
-| Flush | 5 cards of the same suit      |    $1 |
-| Full house | Combination of three of a kind and a pair      |    $1 |
-| Four of a kind | Four cards of the same rank      |    $1 |
-| Straight flush | Straight of the same suit      |    $1 |
-| Royal flush | Straight flush that ends with Ace      |    $1 |
+| Pair      | Two cards of the same rank      |    |
+| Two pairs | Two times two cards with the same rank     |     |
+| Three of a kind | Three cards with the same rank      |     |
+| Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |     |
+| Flush | 5 cards of the same suit      |     |
+| Full house | Combination of three of a kind and a pair      |     |
+| Four of a kind | Four cards of the same rank      |     |
+| Straight flush | Straight of the same suit      |     |
+| Royal flush | Straight flush that ends with Ace      |     |
 
-		
-		10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
-		King of clubsKing of hearts7 of diamonds2 of clubs5 of spades
-		King of clubsKing of hearts7 of diamonds7 of clubs5 of spades
-		King of clubsKing of heartsKing of diamonds7 of clubs5 of spades
-		3 of clubs4 of hearts5 of diamonds6 of clubs7 of spades
-		King of clubsQueen of clubs9 of clubs8 of clubs2 of clubs
-		King of clubsKing of heartsKing of diamonds7 of clubs7 of spades
-		6 of spades6 of diamonds6 of hearts6 of clubsKing of spades
-		2 of spades3 of spades4 of spades5 of spades6 of spades
 
