@@ -10,7 +10,7 @@ Texas hold 'em (also known as Texas holdem, hold 'em, and holdem) is one of the 
 Hold 'em is normally played using small and big blind bets—forced bets by two players. Antes (forced contributions by all players) may be used in addition to blinds, particularly in later stages of tournament play. A dealer button is used to represent the player in the dealer position; the dealer button rotates clockwise after each hand, changing the position of the dealer and blinds. The small blind is posted by the player to the left of the dealer and is usually equal to half of the big blind. The big blind, posted by the player to the left of the small blind, is equal to the minimum bet. In tournament poker, the blind/ante structure periodically increases as the tournament progresses. After one round of betting is done, the next betting round will start by the person in the small blind.
 
 A standard hold 'em game showing the position of the blinds relative to the dealer button: 
-![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Texas_Hold%27em_Poker_Table_with_Blinds.svg/700px-Texas_Hold%27em_Poker_Table_with_Blinds.svg.png width= 200)
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Texas_Hold%27em_Poker_Table_with_Blinds.svg/700px-Texas_Hold%27em_Poker_Table_with_Blinds.svg.png)
 
 When only two players remain, special "head-to-head" or "heads up" rules are enforced and the blinds are posted differently. In this case, the person with the dealer button posts the small blind, while their opponent places the big blind. The dealer acts first before the flop. After the flop, the dealer acts last and continues to do so for the remainder of the hand.
 
@@ -50,7 +50,7 @@ The following table shows the possible hand values in increasing order.
 | Two pairs | Two times two cards with the same rank     |     |
 | Three of a kind | Three cards with the same rank      |     |
 | Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |     |
-| Flush | 5 cards of the same suit      |  <img src = "images/Flush.png" width = 200>   |
+| Flush | 5 cards of the same suit      |  <img src = "images/Flush.png" width = 220>   |
 | Full house | Combination of three of a kind and a pair      |     |
 | Four of a kind | Four cards of the same rank      |     |
 | Straight flush | Straight of the same suit      |     |
