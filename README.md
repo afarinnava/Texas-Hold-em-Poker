@@ -54,6 +54,6 @@ The following table shows the possible hand values in increasing order.
 | Full house | Combination of three of a kind and a pair      |  <img src = "images/Full_House.png" width = 220 >   |
 | Four of a kind | Four cards of the same rank      |   <img src = "images/Four_of_a_Kind.png" width = 220 >  |
 | Straight flush | Straight of the same suit      |  <img src = "images/Staright_Flush.png" width = 220 >   |
-| Royal flush | Straight flush that ends with Ace      |     |
+| Royal flush | Straight flush that ends with Ace      |  <img src = "images/Royal_Flush.png" width = 220 >   |
 
 
