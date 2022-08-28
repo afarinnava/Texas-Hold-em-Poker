@@ -45,12 +45,12 @@ The following table shows the possible hand values in increasing order.
 
 | Name        | Description           | Example  |
 | ------------- |:-------------:| -----:|
-| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | ![](/Flush/Flush.png) |
-| Pair      | Two cards of the same rank      |    |
-| Two pairs | Two times two cards with the same rank     |     |
+| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | <img src = "images/Highcard.png" width = 220 > |
+| Pair      | Two cards of the same rank      | <img src = "images/Pair.png" width = 220 > |
+| Two pairs | Two times two cards with the same rank     | <img src = "images/Two pairs.png" width = 220 > |
 | Three of a kind | Three cards with the same rank      |     |
 | Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |     |
-| Flush | 5 cards of the same suit      |  <img src = "images/Flush.png" width = 220>   |
+| Flush | 5 cards of the same suit      | <img src = "images/Flush.png" width = 220 > |
 | Full house | Combination of three of a kind and a pair      |     |
 | Four of a kind | Four cards of the same rank      |     |
 | Straight flush | Straight of the same suit      |     |
