@@ -3,11 +3,11 @@
 
 Texas hold 'em (also known as Texas holdem, hold 'em, and holdem) is one of the most popular variants of the card game of poker. Two cards, known as hole cards, are dealt face down to each player, and then five community cards are dealt face up in three stages. The stages consist of a series of three cards ("the flop"), later an additional single card ("the turn" or "fourth street"), and a final card ("the river" or "fifth street"). Each player seeks the best five card poker hand from any combination of the seven cards; the five community cards and their two hole cards. Players have betting options to check, call, raise, or fold. Rounds of betting take place before the flop is dealt and after each subsequent deal. The player who has the best hand and has not folded by the end of all betting rounds wins all of the money bet for the hand, known as the pot. In certain situations, a "split-pot" or "tie" can occur when two players have hands of equivalent value. This is also called a "chop-pot". 
 
-## Rules
+## *Rules*
 
-### Betting structures
+## Betting structures
 
-A standard hold 'em game showing the position of the blinds relative to the dealer button Hold 'em is normally played using small and big blind bets—forced bets by two players. Antes (forced contributions by all players) may be used in addition to blinds, particularly in later stages of tournament play. A dealer button is used to represent the player in the dealer position; the dealer button rotates clockwise after each hand, changing the position of the dealer and blinds. The small blind is posted by the player to the left of the dealer and is usually equal to half of the big blind. The big blind, posted by the player to the left of the small blind, is equal to the minimum bet. In tournament poker, the blind/ante structure periodically increases as the tournament progresses. After one round of betting is done, the next betting round will start by the person in the small blind.
+Hold 'em is normally played using small and big blind bets—forced bets by two players. Antes (forced contributions by all players) may be used in addition to blinds, particularly in later stages of tournament play. A dealer button is used to represent the player in the dealer position; the dealer button rotates clockwise after each hand, changing the position of the dealer and blinds. The small blind is posted by the player to the left of the dealer and is usually equal to half of the big blind. The big blind, posted by the player to the left of the small blind, is equal to the minimum bet. In tournament poker, the blind/ante structure periodically increases as the tournament progresses. After one round of betting is done, the next betting round will start by the person in the small blind.
 
 A standard hold 'em game showing the position of the blinds relative to the dealer button: 
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Texas_Hold%27em_Poker_Table_with_Blinds.svg/700px-Texas_Hold%27em_Poker_Table_with_Blinds.svg.png)
@@ -20,11 +20,12 @@ No-limit hold 'em has grown in popularity and is the form most commonly found in
 
 Some casinos that offer hold 'em also allow the player to the left of the big blind to post an optional live straddle, usually double the amount of the big blind. This causes that player to act as the big blind and the player has an option to raise when it comes to their turn again. (Some variations allow for straddle on the button). No-limit games may also allow multiple re-straddles, in any amount that would be a legal raise.
 
-Play of the hand
+## Play of the hand
 
-Each player is dealt two private cards in hold 'em, which are dealt first.
-This video shows how to deal a hand for Texas hold 'em and some of the types of hands needed in order to win.
 Following a shuffle of the cards, play begins with each player being dealt two cards face down, with the player in the small blind receiving the first card and the player in the button seat receiving the last card dealt. (As in most poker games, the deck is a standard 52-card deck containing no jokers.) These cards are the players' hole or pocket cards. These are the only cards each player will receive individually, and they will (possibly) be revealed only at the showdown, making Texas hold 'em a closed poker game.
+
+Each player is dealt two private cards in hold 'em, which are dealt first:
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Texas_Hold_%27em_Hole_Cards.jpg/440px-Texas_Hold_%27em_Hole_Cards.jpg)
 
 The hand begins with a "pre-flop" betting round, beginning with the player to the left of the big blind (or the player to the left of the dealer, if no blinds are used) and continuing clockwise. A round of betting continues until every player has folded, put in all of their chips, or matched the amount put in by all other active players. See betting for a detailed account. Note that the blinds are considered "live" in the pre-flop betting round, meaning that they are counted toward the amount that the blind player must contribute. If all players call around to the player in the big blind position, that player may either check or raise.
 
