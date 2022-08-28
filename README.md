@@ -33,14 +33,14 @@ After the pre-flop betting round, assuming there remain at least two players tak
 
 After the flop betting round ends, a single community card (called the turn or fourth street) is dealt, followed by a third betting round. A final single community card (called the river or fifth street) is then dealt, followed by a fourth betting round and the showdown, if necessary. In the third and fourth betting rounds, the stakes double.
 
-In all casinos, the dealer will burn a card before the flop, turn, and river. Because of this burn, players who are betting cannot see the back of the next community card to come. This is done for traditional reasons, to avoid any possibility of a player knowing in advance the next card to be dealt due to its being marked.[10]
+## The showdown
 
-The showdown
-If a player bets and all other players fold, then the remaining player is awarded the pot and is not required to show their hole cards. If two or more players remain after the final betting round, a showdown occurs. On the showdown, each player plays the best poker hand they can make from the seven cards comprising their two hole cards and the five community cards. A player may use both of their own two hole cards, only one, or none at all, to form their final five-card hand. If the five community cards form the player's best hand, then the player is said to be playing the board and can only hope to split the pot, because each other player can also use the same five cards to construct the same hand.[10]
+If a player bets and all other players fold, then the remaining player is awarded the pot and is not required to show their hole cards. If two or more players remain after the final betting round, a showdown occurs. On the showdown, each player plays the best poker hand they can make from the seven cards comprising their two hole cards and the five community cards. A player may use both of their own two hole cards, only one, or none at all, to form their final five-card hand. If the five community cards form the player's best hand, then the player is said to be playing the board and can only hope to split the pot, because each other player can also use the same five cards to construct the same hand.
 
 If the best hand is shared by more than one player, then the pot is split equally among them, with any extra chips going to the first players after the button in clockwise order. It is common for players to have closely valued, but not identically ranked hands. Nevertheless, one must be careful in determining the best hand; if the hand involves fewer than five cards, (such as two pair or three of a kind), then kickers are used to settle ties (see the second example below). The card's numerical rank is of sole importance; suit values are irrelevant in hold 'em.
 
-Hand values
+## Hand values
+
 The following table shows the possible hand values in increasing order.
 
 Name	Description	Example
