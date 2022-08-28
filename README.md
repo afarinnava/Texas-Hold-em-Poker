@@ -25,7 +25,7 @@ Some casinos that offer hold 'em also allow the player to the left of the big bl
 Following a shuffle of the cards, play begins with each player being dealt two cards face down, with the player in the small blind receiving the first card and the player in the button seat receiving the last card dealt. (As in most poker games, the deck is a standard 52-card deck containing no jokers.) These cards are the players' hole or pocket cards. These are the only cards each player will receive individually, and they will (possibly) be revealed only at the showdown, making Texas hold 'em a closed poker game.
 
 Each player is dealt two private cards in hold 'em, which are dealt first:
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Texas_Hold_%27em_Hole_Cards.jpg/440px-Texas_Hold_%27em_Hole_Cards.jpg| width=100)
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Texas_Hold_%27em_Hole_Cards.jpg/440px-Texas_Hold_%27em_Hole_Cards.jpg)
 
 The hand begins with a "pre-flop" betting round, beginning with the player to the left of the big blind (or the player to the left of the dealer, if no blinds are used) and continuing clockwise. A round of betting continues until every player has folded, put in all of their chips, or matched the amount put in by all other active players. See betting for a detailed account. Note that the blinds are considered "live" in the pre-flop betting round, meaning that they are counted toward the amount that the blind player must contribute. If all players call around to the player in the big blind position, that player may either check or raise.
 
