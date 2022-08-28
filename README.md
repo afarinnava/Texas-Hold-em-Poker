@@ -48,43 +48,21 @@ The following table shows the possible hand values in increasing order.
 | Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | $1600 |
 | Pair      | Two cards with the same value      |   $12 |
 | Two pairs | Two times two cards with the same value      |    $1 |
+| Three of a kind | Three cards with the same value      |    $1 |
+| Straight | Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)      |    $1 |
+| Flush | 5 cards of the same suit      |    $1 |
+| Full house | Combination of three of a kind and a pair      |    $1 |
+| Four of a kind | Four cards of the same value      |    $1 |
+| Straight flush | Straight of the same suit      |    $1 |
 
 		
 		10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
 		King of clubsKing of hearts7 of diamonds2 of clubs5 of spades
 		King of clubsKing of hearts7 of diamonds7 of clubs5 of spades
-		
-		<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
-alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
-Three of a kind	Three cards with the same value	King of clubsKing of heartsKing of diamonds7 of clubs5 of spades
-Straight	Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)	3 of clubs4 of hearts5 of diamonds6 of clubs7 of spades
-Flush	5 cards of the same suit	King of clubsQueen of clubs9 of clubs8 of clubs2 of clubs
-Full house	Combination of three of a kind and a pair	King of clubsKing of heartsKing of diamonds7 of clubs7 of spades
-Four of a kind	Four cards of the same value	6 of spades6 of diamonds6 of hearts6 of clubsKing of spades
-Straight flush	Straight of the same suit	2 of spades3 of spades4 of spades5 of spades6 of spades
-Misdeal
-If the first or second card dealt is exposed, then this is considered a misdeal. The dealer then retrieves the card, reshuffles the deck, and again cuts the cards. However, if any other hole card is exposed due to a dealer error, the deal continues as usual. After completing the deal, the dealer replaces the exposed card with the top card on the deck, and the exposed card is then used as the burn card. If more than one hole card is exposed, a misdeal is declared by the dealer and the hand is dealt again from the beginning.[45] A misdeal is also declared if a player receives more than two hole cards by mistake (e.g. two cards stuck together).
-
-Examples
-Sample showdown
-Here is a sample showdown:
-
-Board
-4 of clubsKing of spades4 of hearts8 of spades7 of spades
-Bob
-  Ace of clubs4 of diamonds  
-Carol
-  Ace of spades9 of spades  
-Ted
-  King of heartsKing of diamonds  
-Alice
-  5 of diamonds6 of diamonds  
-Each player plays the best five-card hand they can make with the seven cards available. Below is the list of best hands each player has.
-
-Bob	4 of clubs4 of hearts4 of diamondsAce of clubsKing of spades	Three fours, with king, ace kickers
-Carol	Ace of spadesKing of spades9 of spades8 of spades7 of spades	Ace-high flush
-Ted	King of spadesKing of heartsKing of diamonds4 of clubs4 of hearts	Full house (three kings, two fours)
-Alice	8 of spades7 of spades6 of diamonds5 of diamonds4 of hearts	8-high straight
-In this case, Ted wins as he has the best hand (full house). If arranged in order of hand strength from the strongest, it would be Ted's full house, Carol's flush, Alice's straight, and Bob's three-of-a-kind.
+		King of clubsKing of heartsKing of diamonds7 of clubs5 of spades
+		3 of clubs4 of hearts5 of diamonds6 of clubs7 of spades
+		King of clubsQueen of clubs9 of clubs8 of clubs2 of clubs
+		King of clubsKing of heartsKing of diamonds7 of clubs7 of spades
+		6 of spades6 of diamonds6 of hearts6 of clubsKing of spades
+		2 of spades3 of spades4 of spades5 of spades6 of spades
 
