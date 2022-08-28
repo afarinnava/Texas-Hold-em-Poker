@@ -53,6 +53,10 @@ The following table shows the possible hand values in increasing order.
 		10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
 		King of clubsKing of hearts7 of diamonds2 of clubs5 of spades
 		King of clubsKing of hearts7 of diamonds7 of clubs5 of spades
+		
+		<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
+" target="_blank"><img src="http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 Three of a kind	Three cards with the same value	King of clubsKing of heartsKing of diamonds7 of clubs5 of spades
 Straight	Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)	3 of clubs4 of hearts5 of diamonds6 of clubs7 of spades
 Flush	5 cards of the same suit	King of clubsQueen of clubs9 of clubs8 of clubs2 of clubs
