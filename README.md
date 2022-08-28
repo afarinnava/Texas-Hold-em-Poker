@@ -43,10 +43,16 @@ If the best hand is shared by more than one player, then the pot is split equall
 
 The following table shows the possible hand values in increasing order.
 
-Name	Description	Example
-Highcard	Simple value of the card. Lowest: 2 – Highest: Ace (King in example)	10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
-Pair	Two cards with the same value	King of clubsKing of hearts7 of diamonds2 of clubs5 of spades
-Two pairs	Two times two cards with the same value	King of clubsKing of hearts7 of diamonds7 of clubs5 of spades
+| Name        | Description           | Example  |
+| ------------- |:-------------:| -----:|
+| Highcard      | Simple value of the card. Lowest: 2 – Highest: Ace (King in example) | $1600 |
+| Pair      | Two cards with the same value      |   $12 |
+| Two pairs | Two times two cards with the same value      |    $1 |
+
+		
+		10 of clubs4 of hearts7 of diamondsKing of clubs2 of spades
+		King of clubsKing of hearts7 of diamonds2 of clubs5 of spades
+		King of clubsKing of hearts7 of diamonds7 of clubs5 of spades
 Three of a kind	Three cards with the same value	King of clubsKing of heartsKing of diamonds7 of clubs5 of spades
 Straight	Sequence of 5 cards in increasing value (Ace can precede 2 and follow up King)	3 of clubs4 of hearts5 of diamonds6 of clubs7 of spades
 Flush	5 cards of the same suit	King of clubsQueen of clubs9 of clubs8 of clubs2 of clubs
